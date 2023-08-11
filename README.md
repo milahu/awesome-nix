@@ -145,6 +145,7 @@
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+* [writable-nix-store](https://github.com/milahu/nixos-patch-installer/blob/master/writable-nix-store.js) - Get temporary write-access to existing files in /nix/store. ([discussion](https://discourse.nixos.org/t/writable-nix-store/18964))
 
 ## DevOps
 
